@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992116837549",
+    "project_id": "quickagro-797c5",
+    "storage_bucket": "quickagro-797c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992116837549:android:45a3a5aea7f1a858ea0a24",
+        "android_client_info": {
+          "package_name": "com.sakhuwa.foodagro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992116837549-0ais1liuk7p2559h83fiv4q7m6nkr3ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9Gi4kwZ3cKgeS8M2mdVLImbPGIap2YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992116837549-0ais1liuk7p2559h83fiv4q7m6nkr3ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
